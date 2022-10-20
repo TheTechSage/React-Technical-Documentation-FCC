@@ -8,3 +8,4 @@ This project was initially created for getting FCC certificate by completing the
 Tech Stack used- HTML & CSS only.
 
 FCC link- https://www.freecodecamp.org
+React documentation in this project is taken from https://reactjs.org/
